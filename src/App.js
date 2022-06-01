@@ -3,10 +3,10 @@ import FormRegister from "./components/Form/FormRegister";
 
 function App() {
   return (
-    <div className="App">
-      <h1>Formulario</h1>
+    <>
+      <h1>Register</h1>
       <FormRegister />
-    </div>
+    </>
   );
 }
 

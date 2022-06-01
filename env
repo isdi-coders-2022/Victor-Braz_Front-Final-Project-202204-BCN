@@ -1,0 +1,2 @@
+ReeEACT_APP_API_URL=http://localhost:4001/
+REACT_APP_API_URL=cluster0-shard-00-00.kj0hy.mongodb.net:27017/el_once_ideal/users
